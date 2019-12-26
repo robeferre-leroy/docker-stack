@@ -1,4 +1,4 @@
-# Solution hello-devops
+# hello-devops
 _Docker and docker-compose versions_
 * Docker version 18.09.5, build e8ff056
 * docker-compose version 1.24.0, build 0aa59064
